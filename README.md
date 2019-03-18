@@ -26,8 +26,8 @@ The event takes place in Lisbon, Portugal from 21 to 23 March 2019.
 
 ## Challenge - Smart Campus
 
-	The following text is the same you may have found at [Pixels' GitHub](https://github.com/PixelsCamp/hackathon/blob/master/v3.0/cisco-warpcom_smart-campus.md).
-	If you've read it already jump to [resources](#resources)!
+> The following text is the same you may have found at [Pixels' GitHub](https://github.com/PixelsCamp/hackathon/blob/master/v3.0/cisco-warpcom_smart-campus.md).
+> If you've read it already jump to [resources](#resources)!
 
 ### Context
 
