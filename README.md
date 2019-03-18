@@ -1,6 +1,6 @@
 # Pixels Camp '19
 
-Warpdev , together with [Cisco DevNet](https://developer.cisco.com/), is participating in [Pixels Camp v3.0](https://pixels.camp/). 
+Warpdev and [Cisco DevNet](https://developer.cisco.com/) are participating in [Pixels Camp v3.0](https://pixels.camp/). 
 
 Together we bring you the **Smart Campus** challenge!
 
