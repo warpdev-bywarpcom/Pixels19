@@ -44,19 +44,17 @@ Warpdev and Cisco DevNet are committed to supporting you in this path. Discover 
 
 ### Description
 
-The challenge is open and straightforward. Develop using Cisco APIs, powered by Warpcom, to solve a problem related to your school or university, and you're in (just to make it clear, you're obviously welcomed to use our resources for your project even if it is not related to education).
+The challenge is open and straightforward. Spread your magic and develop using Cisco APIs, powered by Warpcom, to solve a problem related to your school or university, and you're in (just to make it clear, you're very welcomed to use our resources even if your project it is not related to education).
 
 If what you're missing for your project is related to real-time or historical data on device location (remember that inside buildings GPS doesn't work) you should take advantage of the Cisco Wi-Fi infrastructure.
 
-To help you we've got access points around the venue, controlled by a Cisco Connected Mobile Experiences (CMX) controller, that you may use to collect data about the Wi-Fi usage to build a dashboard or services. 
+To help you we've got access points around the venue, controlled by a Cisco Connected Mobile Experiences (CMX) controller, that you may use to collect data about the Wi-Fi usage to build a dashboard, services or whatever comes to your mind. 
 
-Cisco CMX provides a powerful API! To ensure you take the most out of it, we've created a page with information and learning resources. Check it in [here](https://pixels19.warpdev.io/cmx.html).
+Cisco CMX provides a powerful API! To ensure you take the most out of it, we've created a page with information and learning resources. Check it [here](https://pixels19.warpdev.io/cmx.html).
 
-If you need to embed chat, video or other collaboration features remember that you shouldn't reinvent the weel! 
+If you need to embed chat, video or other collaboration features remember that you shouldn't reinvent the weel!  Cisco Webex Teams is an app for continuous teamwork with video meetings, group messaging, file sharing and whiteboarding (tip: you'll spot two of these in the venue). 
 
-Cisco Webex Teams is an app for continuous teamwork with video meetings, group messaging, file sharing and whiteboarding (tip: you'll spot two of these in the venue). You can use the APIs to build Bots and Integrations or the SDKs to integrate Webex directly in your applications.
-
-Once again to fast track your learning experience we've created [this page](https://pixels19.warpdev.io/webex.html).
+You can use Teams' APIs to build Bots and Integrations or the SDKs to integrate Webex directly in your applications. Once again, to fast track your learning experience we've created [this page](https://pixels19.warpdev.io/webex.html).
 
 ### Resources
 
