@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 title: Pixels Camp ‘19
 description: Warpdev & Cisco DevNet participation on Pixels Camp Hackathon.
 show_downloads: false
+google_analytics: UA-126735534-3
