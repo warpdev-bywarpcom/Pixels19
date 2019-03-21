@@ -14,9 +14,9 @@ title: Cisco Webex Teams
 
 **Stop by our booth or join our [Webex Space](https://eurl.io/#ryg_Ltg_E) at any time!**
 
-- Sign up for Cisco Webex Teams and get access to the Webex Teams Web client - [teams.webex.com](https://teams.webex.com/);
+- Sign up for [Cisco Webex Teams](https://www.webex.com/team-collaboration.html) and get access to the Webex Teams Web client - [teams.webex.com](https://teams.webex.com/);
 
-- [optional] Install a Webex Teams client on your laptop and/or mobile phone, and get instant access everywhere;
+- [optional] Install a [Webex Teams client](https://www.webex.com/downloads.html) on your laptop and/or mobile phone, and get instant access everywhere;
 
 - Go to [Cisco DevNet Learning Labs on Webex](https://developer.cisco.com/learning/tracks/collab-cloud) and pick one (or two);
 
