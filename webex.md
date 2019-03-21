@@ -117,3 +117,10 @@ The documentation on the API can be found in [developer.webex.com](https://devel
 
 A curated list of Cisco Webex resources for developers, following the [awesome framework](https://github.com/sindresorhus/awesome), can be found in [GitHub](https://github.com/CiscoDevNet/awesome-webex).
 List also available in [Cisco Code Exchange](https://developer.cisco.com/codeexchange/platforms/webex), for those who prefer a web page interface.
+
+
+## Next Steps
+
+If you wan to use Integration or Bots just go ahead! A free account in webex teams is enough. 
+
+If you are looking at the Guest Issuer pass by our booth and we will provide you a token!
