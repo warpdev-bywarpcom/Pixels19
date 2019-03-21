@@ -22,7 +22,7 @@ title: Cisco Webex Teams
 
 - Check [awesome resources](https://github.com/CiscoDevNet/awesome-webex) to get code samples and SDKs in various languages.
 
-- Looking for more info? Check our docs: https://docs.warpdev.io/cisco/collaboration/#webex-teams
+- Looking for more info? Check our docs: [docs.warpdev.io/cisco/collaboration](https://docs.warpdev.io/cisco/collaboration/#webex-teams)
 
 ## About specific features
 
