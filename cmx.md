@@ -26,6 +26,7 @@ title: Cisco Connected Mobile Experiences
   - username: ``Pixels``
   - password: ``PixelsCamp``
   - url: ``https://62.48.242.225`` (only works in https!)
+  - [API Docs](https://62.48.242.225/apidocs/), with live testing!
  
 The credentials above are read only, obviously. To create a notification subscription stop by our booth and will set it up for you.
 
