@@ -58,11 +58,7 @@ You can use Teams' APIs to build Bots and Integrations or the SDKs to integrate 
 
 ### Resources
 
-- Talk to Warpie (our bot!):
-
-  * Do you have an Webex Teams accoount? Then [click here](http://pixels19-bot.warpdev.io/join-bot.php)
-
-  * You don't? No problem, just go to [pixels19-bot.warpdev.io](http://pixels19-bot.warpdev.io)
+- Talk to Warpie (our bot!), just go to [pixels19-bot.warpdev.io](http://pixels19-bot.warpdev.io)
 
 - Wi-Fi Infrastructure (Cisco CMX) -> [pixels19.warpdev.io/cmx.html](https://pixels19.warpdev.io/cmx.html)
 
