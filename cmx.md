@@ -29,4 +29,4 @@ title: Cisco Connected Mobile Experiences
  
 The credentials above are read only, obviously. To create a notification subscription stop by our booth and will set it up for you.
 
-![Smart Campus](https://raw.githubusercontent.com/warpdev-bywarpcom/Pixels19/master/assets/pixels_cmx.PNG "Pixels CMX")
+![Pixels CMX](https://raw.githubusercontent.com/warpdev-bywarpcom/Pixels19/master/assets/pixels_cmx.PNG "Pixels CMX")
