@@ -18,6 +18,6 @@ title: Cisco Connected Mobile Experiences
 
 - Go to (Cisco DevNet Learning Labs on CMX)](https://learninglabs.cisco.com/modules/dna-cmx-mse) and pick one (or two);
 
-- Looking for more info? Check our docs: https://docs.warpdev.io/cisco/networking/#cmx-on-premise;
+- Looking for more info? Check our docs: [docs.warpdev.io/cisco/networking](https://docs.warpdev.io/cisco/networking/#cmx-on-premise);
 
 - Ask us for your API credentials to access the Pixels CMX API.
