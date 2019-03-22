@@ -35,3 +35,4 @@ The credentials above are read only, obviously. To create a notification subscri
 - For some reason the ``/api/location/v3/clients`` endpoints are not working. use the ``/api/location/v2/clients`` endpoints instead. (btw, the Postman collection provided above is already with ``v2``)
 - The environment is configured for ``location``. The APIs for ``presence`` won't work.
 
+![Pixels CMX](https://raw.githubusercontent.com/warpdev-bywarpcom/Pixels19/master/assets/pixels_cmx.PNG "Pixels CMX")
